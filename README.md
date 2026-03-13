@@ -142,3 +142,5 @@ This project demonstrates a complete hybrid retrieval system integrating:
 - Monitoring metrics
 - Interactive dashboard
 - The system is designed to run locally on CPU and can be reproduced easily using the  provided scripts.
+
+- Video Link -:https://www.loom.com/share/aad9883c22714147964e0bcd044d2539
